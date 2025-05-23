@@ -1,0 +1,22 @@
+[
+  {
+    "name": "LED Monitor",
+    "SKU": "LED-001",
+    "category": "Electronics",
+    "description": "24 inch LED Monitor",
+    "costPrice": 120,
+    "sellingPrice": 180,
+    "threshold": 10,
+    "status": "active"
+  },
+  {
+    "name": "Wireless Mouse",
+    "SKU": "MOUSE-002",
+    "category": "Electronics",
+    "description": "Ergonomic wireless mouse",
+    "costPrice": 15,
+    "sellingPrice": 25,
+    "threshold": 20,
+    "status": "active"
+  }
+]
