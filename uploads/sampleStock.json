@@ -1,0 +1,17 @@
+[
+  {
+    "productId": "PRODUCT_ID_1",
+    "quantityAdded": 20,
+    "date": "2024-01-15"
+  },
+  {
+    "productId": "PRODUCT_ID_2",
+    "quantityAdded": 50,
+    "date": "2024-01-20"
+  },
+  {
+    "productId": "PRODUCT_ID_3",
+    "quantityAdded": 100,
+    "date": "2024-02-01"
+  }
+]
